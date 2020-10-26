@@ -38,4 +38,14 @@ To use a Prolog program (file), we pose queries in the Prolog terminal, in this 
 ![helloWorld](Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/prolog_images/hello_world_2.png)
 
 As you can see above, it will return the written string 'Hello world' with the boolean 'true' right after. 
+So that was pretty easy, but obviously, there is a lot more to Prolog. I already mentioned facts, rules and queries, so let's see what they are.
+
+## Facts, rules, queries
+
+There are three basic constructs in Prolog: facts, rules and queries. Let's first look what facts are.
+Facts are things that are always true or have some situation of interest.
+
+
+
+
 
