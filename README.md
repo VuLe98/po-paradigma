@@ -17,7 +17,7 @@ What I will use for this assignment:
   
 ## Hello, world
 
-Code I made for this chapter: ![helloWorld.pl)](Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/helloWorld.pl)
+Code I made for this chapter: [Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/helloWorld.pl].
 
 Code as mentioned above:
 
@@ -26,7 +26,16 @@ hello_world :-
     write('Hello world').
 
 ```
-
-Output:
+To get the output, you first have to call your Prolog file, which acts as a Knowledge Base.
+A Knowledge Base is a collection of facts and rules which describe some collection of relationships that we find interesting.
+Facts and rules will be explained later in this README.
+So it is like a database where information, in this case facts and rules) are stored. 
+So the code as shown above is part of the Knowledge Base of HelloWorld (helloWorld.pl). 
+In this case the Knowledge Base is helloWorld.pl. So in the image below, that is the first command called in brackets.
+If the Knowledge Base exists (which in this case it did), it will return true.
+To use a Prolog program (file), we pose queries in the Prolog terminal, in this case, it is 'hello_world' as written in de Knowledge Base. 
 
 ![helloWorld](Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/prolog_images/hello_world_2.png)
+
+As you can see above, it will return the written string 'Hello world'. 
+
