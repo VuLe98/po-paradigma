@@ -8,7 +8,7 @@ The goal of doing this assignment is to learn the new programming language and s
 
 For this assignment to be a success, I will do a challenge: implementing the shortest-path algorithm (Dijkstra) and demonstrating the algorithm. So obviously, the challenge will only be a success if I succesfully implement the algorithm. I will also allow me to implement some learning material of the APP-course to add some difficulty to my research. 
 
-A lot of my information will come by this ![Youtube-tutorial][https://www.youtube.com/watch?v=SykxWpFwMGs]. My plan is to follow this guide and some other sources (that will be mentioned in the literature-list at the bottom of this README) to show what I learned about Prolog and to use that knowledge to implement my chosen challenge.
+A lot of my information will come by this ![Youtube-tutorial](https://www.youtube.com/watch?v=SykxWpFwMGs). My plan is to follow this guide and some other sources (that will be mentioned in the literature-list at the bottom of this README) to show what I learned about Prolog and to use that knowledge to implement my chosen challenge.
 
 What I will use for this assignment:
 
