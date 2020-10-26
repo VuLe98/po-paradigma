@@ -14,3 +14,19 @@ What I will use for this assignment:
 
   - Operating system: Windows 10 64-bit
   - SWI-Prolog as my IDE
+  
+## Hello, world
+
+Code I made for this chapter: !(helloWorld.pl)[Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/helloWorld.pl]
+
+Code as mentioned above:
+
+```
+hello_world :-
+    write('Hello world').
+
+```
+
+Output:
+
+!(helloWorld)[Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/prolog_images/hello_world_2.png]
