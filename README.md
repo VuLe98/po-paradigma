@@ -17,7 +17,7 @@ What I will use for this assignment:
   
 ## Hello, world
 
-Code I made for this chapter: [Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/helloWorld.pl].
+Code I made for this chapter: (Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/helloWorld.pl).
 
 Code as mentioned above:
 
@@ -37,5 +37,5 @@ To use a Prolog program (file), we pose queries in the Prolog terminal, in this 
 
 ![helloWorld](Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/prolog_images/hello_world_2.png)
 
-As you can see above, it will return the written string 'Hello world'. 
+As you can see above, it will return the written string 'Hello world' with the boolean 'true' right after. 
 
