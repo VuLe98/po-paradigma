@@ -17,7 +17,7 @@ What I will use for this assignment:
   
 ## Hello, world
 
-Code I made for this chapter: !(helloWorld.pl)[Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/helloWorld.pl]
+Code I made for this chapter: ![helloWorld.pl)](Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/helloWorld.pl)
 
 Code as mentioned above:
 
@@ -29,4 +29,4 @@ hello_world :-
 
 Output:
 
-!(helloWorld)[Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/prolog_images/hello_world_2.png]
+![helloWorld](Onderzoek_Functionele_Paradigma_Vu_Le_592420_ASD_APP/prolog_images/hello_world_2.png)
